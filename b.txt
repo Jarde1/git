@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 linha um ramo master
 linha dois ramo master
 linha tres ramo master
+=======
+o mesmo codigo
+>>>>>>> teste
